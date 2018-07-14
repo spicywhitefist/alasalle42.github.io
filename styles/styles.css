@@ -1,0 +1,7 @@
+#main {
+    margin-top: 70px;
+}
+nav.navbar a.nav-link {
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
